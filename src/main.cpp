@@ -1,4 +1,4 @@
-/*22
+/*
    //##############################################################################
    //Local Panel DI/O mapping  Master
    01, DI Emergency Stop B접점    mDI_EmergencyStop          mdi01     MbReg[0.0]
